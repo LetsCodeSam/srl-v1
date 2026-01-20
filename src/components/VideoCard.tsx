@@ -1,6 +1,7 @@
 import React from 'react';
 import { Play, Clock, BarChart3, CheckCircle2 } from 'lucide-react';
 import type { Video } from '../types';
+import { getThumbnailUrl } from '../utils';
 
 interface VideoCardProps {
     video: Video;
@@ -52,18 +53,28 @@ const VideoCard: React.FC<VideoCardProps> = ({ video, category, onClick }) => {
                     </p>
                 </div>
 
-                <div className="pt-4 border-t border-white/5">
+                <div className="pt-4 border-t border-white/5 relative">
                     <div className="flex items-center gap-2 mb-2 text-xs font-bold text-gray-500 uppercase tracking-widest">
                         <BarChart3 className="w-3 h-3" />
                         Key Learnings
                     </div>
-                    <div className="space-y-1.5">
+                    <div className="space-y-1.5 pr-24"> {/* Add padding for thumbnail space */}
                         {video.learningPoints.slice(0, 3).map((point, i) => (
                             <div key={i} className="flex items-center gap-2 text-xs text-gray-300">
                                 <CheckCircle2 className="w-3 h-3 text-nordic-teal/60" />
-                                <span>{point}</span>
+                                <span className="line-clamp-1">{point}</span>
                             </div>
                         ))}
+                    </div>
+
+                    {/* Thumbnail */}
+                    <div className="absolute bottom-0 right-0 w-24 aspect-video rounded-xl overflow-hidden border border-white/10 shadow-2xl group-hover:scale-110 transition-transform duration-500">
+                        <img
+                            src={getThumbnailUrl(video.url)}
+                            alt={video.title}
+                            className="w-full h-full object-cover"
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
                     </div>
                 </div>
             </div>
