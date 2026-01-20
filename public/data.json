@@ -1,0 +1,396 @@
+{
+    "categories": [
+        {
+            "name": "Basics",
+            "videos": [
+                {
+                    "title": "Ordstilling",
+                    "url": "https://www.youtube.com/watch?v=DSo2i9tv6aQ",
+                    "description": "Learn the fundamental Norwegian word order (V2 rule) with clear examples.",
+                    "duration": "12:45",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "V2 Rule",
+                        "Subject-Verb agreement",
+                        "Inversion"
+                    ]
+                },
+                {
+                    "title": "OmKvelden",
+                    "url": "https://www.youtube.com/watch?v=AtR-bxVJtoo",
+                    "description": "Vocabulary and common phrases for describing evening routines.",
+                    "duration": "08:30",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Daily routines",
+                        "Time expressions",
+                        "Reflexive verbs"
+                    ]
+                },
+                {
+                    "title": "Ja/Jo Distinction",
+                    "url": "https://www.youtube.com/watch?v=OIa7rLTlMjA",
+                    "description": "Master the nuance of responding to negative questions using Ja and Jo.",
+                    "duration": "05:15",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Answering negative questions",
+                        "Conversational flow"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Samtale",
+            "videos": [
+                {
+                    "title": "Ordstilling i Samtale",
+                    "url": "https://www.youtube.com/watch?v=DSo2i9tv6aQ",
+                    "description": "Practical application of word order in everyday conversations.",
+                    "duration": "12:45",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Conversational grammar",
+                        "Sentence structure"
+                    ]
+                },
+                {
+                    "title": "Kveldsaktiviteter",
+                    "url": "https://www.youtube.com/watch?v=AtR-bxVJtoo",
+                    "description": "Discussing your evening plans and activities with others.",
+                    "duration": "08:30",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Small talk",
+                        "Planning activities"
+                    ]
+                },
+                {
+                    "title": "Vår og Vær",
+                    "url": "https://www.youtube.com/watch?v=7tYoN28I0XM",
+                    "description": "Talk about spring and the changing weather in Norwegian.",
+                    "duration": "06:20",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Weather vocabulary",
+                        "Seasonal changes"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Uttale",
+            "videos": [
+                {
+                    "title": "Phonetics Guide 1",
+                    "url": "https://player.vimeo.com/video/1025298100",
+                    "description": "Introduction to Norwegian phonetic sounds and vowel length.",
+                    "duration": "10:15",
+                    "difficulty": "All Levels",
+                    "learningPoints": [
+                        "Vowel sounds",
+                        "Word stress"
+                    ]
+                },
+                {
+                    "title": "Phonetics Guide 2",
+                    "url": "https://player.vimeo.com/video/1022514239",
+                    "description": "Deep dive into consonant clusters and silent letters.",
+                    "duration": "09:40",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Consonants",
+                        "Common pitfalls"
+                    ]
+                },
+                {
+                    "title": "Phonetics Guide 3",
+                    "url": "https://player.vimeo.com/video/1023749648",
+                    "description": "Practicing the melody and pitch accent of Norwegian.",
+                    "duration": "11:05",
+                    "difficulty": "Advanced",
+                    "learningPoints": [
+                        "Pitch accent",
+                        "Tone"
+                    ]
+                },
+                {
+                    "title": "Pronunciation Practice 4",
+                    "url": "https://player.vimeo.com/video/1030739286",
+                    "description": "Interactive exercises for improving your spoken Norwegian.",
+                    "duration": "08:50",
+                    "difficulty": "All Levels",
+                    "learningPoints": [
+                        "Shadowing",
+                        "Articulation"
+                    ]
+                },
+                {
+                    "title": "Pronunciation Practice 5",
+                    "url": "https://player.vimeo.com/video/1030749846",
+                    "description": "Focusing on the 'R' sound and other tricky Norwegian letters.",
+                    "duration": "07:30",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Trilled R",
+                        "Retroflex sounds"
+                    ]
+                },
+                {
+                    "title": "Pronunciation Practice 6",
+                    "url": "https://player.vimeo.com/video/1030751754",
+                    "description": "Advanced pronunciation tips for sounding more like a native.",
+                    "duration": "12:10",
+                    "difficulty": "Advanced",
+                    "learningPoints": [
+                        "Reduction",
+                        "Linking"
+                    ]
+                },
+                {
+                    "title": "Comprehensive Review 7",
+                    "url": "https://player.vimeo.com/video/1021765908",
+                    "description": "A summary of the most important pronunciation rules.",
+                    "duration": "15:00",
+                    "difficulty": "All Levels",
+                    "learningPoints": [
+                        "Summary",
+                        "Best practices"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Beskrive",
+            "videos": [
+                {
+                    "title": "Opp og ned",
+                    "url": "https://player.vimeo.com/video/1102077261",
+                    "description": "Describing movement upwards and downwards.",
+                    "duration": "05:00",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Prepositions",
+                        "Movement verbs"
+                    ]
+                },
+                {
+                    "title": "I midten",
+                    "url": "https://player.vimeo.com/video/1102144457",
+                    "description": "Locating objects in the middle or center of a space.",
+                    "duration": "04:30",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Spatial awareness",
+                        "Location"
+                    ]
+                },
+                {
+                    "title": "Hjørner og kanter",
+                    "url": "https://player.vimeo.com/video/1103054676",
+                    "description": "Vocabulary for corners, edges, and margins.",
+                    "duration": "06:15",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Geometry vocabulary",
+                        "Precise descriptions"
+                    ]
+                },
+                {
+                    "title": "Foran og bak",
+                    "url": "https://player.vimeo.com/video/1103393891",
+                    "description": "Using 'in front of' and 'behind' correctly.",
+                    "duration": "04:45",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Prepositions of place"
+                    ]
+                },
+                {
+                    "title": "Ovenfor og overfor",
+                    "url": "https://player.vimeo.com/video/1102119889",
+                    "description": "Clarifying the difference between 'above' and 'opposite'.",
+                    "duration": "07:20",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Comparative prepositions",
+                        "Nuance"
+                    ]
+                },
+                {
+                    "title": "Over og under",
+                    "url": "https://player.vimeo.com/video/1102162561",
+                    "description": "Basic prepositions for vertical orientation.",
+                    "duration": "04:10",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Verticality",
+                        "Basic opposites"
+                    ]
+                },
+                {
+                    "title": "Høyre og venstre",
+                    "url": "https://player.vimeo.com/video/1102069833",
+                    "description": "Giving directions: Turning left and right.",
+                    "duration": "05:30",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Directions",
+                        "Navigation"
+                    ]
+                },
+                {
+                    "title": "Høyre for og venstre for",
+                    "url": "https://player.vimeo.com/video/1103394521",
+                    "description": "Describing positions relative to other objects.",
+                    "duration": "06:00",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Relative positioning"
+                    ]
+                },
+                {
+                    "title": "Ved siden av",
+                    "url": "https://player.vimeo.com/video/1103394723",
+                    "description": "Using 'next to' in various contexts.",
+                    "duration": "04:20",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Proximity vocabulary"
+                    ]
+                },
+                {
+                    "title": "Nærmest og lengst unna",
+                    "url": "https://player.vimeo.com/video/1103394121",
+                    "description": "Superlative forms for distance: Closest and furthest.",
+                    "duration": "05:45",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Degrees of comparison",
+                        "Distance"
+                    ]
+                },
+                {
+                    "title": "På skrå",
+                    "url": "https://player.vimeo.com/video/1102476494",
+                    "description": "Describing diagonal relationships and orientations.",
+                    "duration": "06:30",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Diagonal movement",
+                        "Advanced spatial terms"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bildebeskrivelse",
+            "videos": [
+                {
+                    "title": "Startsetninger",
+                    "url": "https://www.youtube.com/watch?v=TLOVD4-KRqg",
+                    "description": "Useful opening phrases for describing a picture or photo.",
+                    "duration": "08:15",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Introductory phrases",
+                        "Observation skills"
+                    ]
+                },
+                {
+                    "title": "Startsetninger - Del 2",
+                    "url": "https://www.youtube.com/watch?v=tbiKKhKk-UA",
+                    "description": "More advanced ways to begin your image descriptions.",
+                    "duration": "07:50",
+                    "difficulty": "Advanced",
+                    "learningPoints": [
+                        "Varied introductions",
+                        "Formal language"
+                    ]
+                },
+                {
+                    "title": "Vinterbilde",
+                    "url": "https://www.youtube.com/watch?v=bFdtfmHouls",
+                    "description": "Describing a snowy landscape and winter activities.",
+                    "duration": "09:20",
+                    "difficulty": "Intermediate",
+                    "learningPoints": [
+                        "Winter vocabulary",
+                        "Action verbs"
+                    ]
+                },
+                {
+                    "title": "Bybilde",
+                    "url": "https://www.youtube.com/watch?v=82kNxI49ucA",
+                    "description": "Vocabulary for cities, buildings, and urban life.",
+                    "duration": "10:05",
+                    "difficulty": "All Levels",
+                    "learningPoints": [
+                        "City life",
+                        "Architecture descriptions"
+                    ]
+                },
+                {
+                    "title": "Park og Natur",
+                    "url": "https://www.youtube.com/watch?v=mUhWW9AZI68",
+                    "description": "How to describe trees, parks, and people in nature.",
+                    "duration": "08:40",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Nature vocabulary",
+                        "Relaxation terms"
+                    ]
+                },
+                {
+                    "title": "Hjemmet",
+                    "url": "https://www.youtube.com/watch?v=oH-G0HUlRJs",
+                    "description": "Describing a room or a house interior in detail.",
+                    "duration": "11:30",
+                    "difficulty": "All Levels",
+                    "learningPoints": [
+                        "Furniture",
+                        "Interior design vocabulary"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vær",
+            "videos": [
+                {
+                    "title": "Sommerord",
+                    "url": "https://youtu.be/X9vylNgXqvk?si=dAxS-NQKvUcQKVB0",
+                    "description": "Essential words for the Norwegian summer and sun.",
+                    "duration": "05:50",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Summer vocabulary",
+                        "Vacation terms"
+                    ]
+                },
+                {
+                    "title": "Høst",
+                    "url": "https://www.youtube.com/watch?v=wBOqLxFA3lo",
+                    "description": "Describing autumn, rain, and the colorful leaves.",
+                    "duration": "06:10",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Autumn terms",
+                        "Weather expressions"
+                    ]
+                },
+                {
+                    "title": "Vår i Norge",
+                    "url": "https://www.youtube.com/watch?v=7tYoN28I0XM",
+                    "description": "Vocabulary for the first signs of spring and melting snow.",
+                    "duration": "06:20",
+                    "difficulty": "Beginner",
+                    "learningPoints": [
+                        "Nature awakening",
+                        "Flower names"
+                    ]
+                }
+            ]
+        }
+    ]
+}
